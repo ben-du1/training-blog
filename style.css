@@ -1,0 +1,33 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background:linear-gradient(rgba(255, 0, 0, 0.55), rgba(255, 0, 0, 0.55)), 
+    url('bg.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color:white;
+    width:30%;
+    margin:auto;
+}
+
+footer {
+    margin-bottom: 1rem;
+}
+
+
+a {
+    display:block;
+    color:white;
+    width:fit-content;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+p {
+    margin: 0;
+    white-space:pre-wrap;
+}
+
